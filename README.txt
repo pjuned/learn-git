@@ -7,3 +7,4 @@ developer still push code as part of devlopment
 
 **rebase**
 rebase is another merge strategy which does not maintain history
+development still continues
